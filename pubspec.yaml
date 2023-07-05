@@ -1,7 +1,8 @@
 name: v2ray
 description: A new Flutter plugin project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/NavidShokoufeh/v2ray
+repository: https://github.com/NavidShokoufeh/v2ray.git
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
@@ -11,9 +12,6 @@ dependencies:
   flutter:
     sdk: flutter
   plugin_platform_interface: ^2.0.2
-  package_name: v2ray
-    git:
-      url: https://github.com/NavidShokoufeh/v2ray.git
 
 dev_dependencies:
   flutter_test:
